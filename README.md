@@ -23,7 +23,7 @@ Caso esteja rodando no Google Colab, os pacotes já estão pré-instalados.
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/transfer-learning-cats-dogs.git
+git clone https://github.com/OctavioSB11/transfer-learning-cats-dogs.git
 
 Acesse o diretório do projeto:
 
