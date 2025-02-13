@@ -21,9 +21,9 @@ Caso esteja rodando no Google Colab, os pacotes já estão pré-instalados.
 📂 Estrutura do Projeto
 
 📁 transfer-learning-cats-dogs
-│── 📄 transfer_learning_cats_dogs.ipynb  # Notebook com a implementação
-│── 📄 README.md  # Documentação do projeto
-│── 📄 cats_vs_dogs_model.h5  # Modelo treinado salvo (gerado após o treinamento)
+    │── 📄 transfer_learning_cats_dogs.ipynb  # Notebook com a implementação
+    │── 📄 README.md  # Documentação do projeto
+    │── 📄 cats_vs_dogs_model.h5  # Modelo treinado salvo (gerado após o treinamento)
 
 🚀 Como Executar o Projeto
 
